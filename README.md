@@ -4,6 +4,12 @@
 
 这是一本面向商业小白的开放式电子书。它不以“副业项目推荐”为主，而是训练一套可以长期迁移的赚钱认知：价值、问题、需求、付费者、交易、判断、下注、复制和系统。
 
+## 在线阅读
+
+GitHub Pages：
+
+https://a-persimmons.github.io/money-thinking/
+
 ## 本地阅读
 
 ~~~bash
@@ -17,13 +23,9 @@ npm run docs:dev
 npm run docs:build
 ~~~
 
-## 在线部署
+## 自动部署
 
 仓库已配置 GitHub Actions。推送到 `main` 后会自动构建 VitePress 并部署到 GitHub Pages。
-
-项目站点预期地址：
-
-`https://a-persimmons.github.io/money-thinking/`
 
 ## 结构
 
