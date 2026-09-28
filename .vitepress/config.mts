@@ -40,7 +40,7 @@ export default defineConfig({
         items: [
           { text: '04 赚钱的起点不是想法', link: '/book/04-problem-first' },
           { text: '05 怎么发现真实需求', link: '/book/05-find-demand' },
-          { text: '06 谁痛不重要，谁付钱才重要', link: '/book/06-who-pays' }
+          { text: '06 谁痛还不够，还要看谁付钱', link: '/book/06-who-pays' }
         ]
       },
       {
@@ -59,7 +59,7 @@ export default defineConfig({
           { text: '10 有价值不等于能成交', link: '/book/10-value-vs-transaction' },
           { text: '11 怎么让别人相信你', link: '/book/11-build-trust' },
           { text: '12 怎么描述自己的价值', link: '/book/12-express-value' },
-          { text: '13 定价不是给时间标价', link: '/book/13-pricing' }
+          { text: '13 定价不只是给时间标价', link: '/book/13-pricing' }
         ]
       },
       {
@@ -68,7 +68,7 @@ export default defineConfig({
         items: [
           { text: '14 别创业，先完成第一次交易', link: '/book/14-first-new-money' },
           { text: '15 一个最小赚钱闭环', link: '/book/15-minimal-money-loop' },
-          { text: '16 第一次尝试为什么会失败', link: '/book/16-first-failure' }
+          { text: '16 为什么第一次尝试常常不顺', link: '/book/16-first-failure' }
         ]
       },
       {
@@ -86,7 +86,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '21 没人给任务时怎么办', link: '/book/21-no-task' },
-          { text: '22 信息不值钱，判断才值钱', link: '/book/22-information-vs-judgment' },
+          { text: '22 信息不等于价值，判断让它进入行动', link: '/book/22-information-vs-judgment' },
           { text: '23 小下注，而不是豪赌', link: '/book/23-small-bets' }
         ]
       },
